@@ -2471,7 +2471,6 @@ blockquote footer cite:before {
 }
 #recent-posts > .recent-post-item >.recent-post-info > .content {
   margin-top: 0.3rem;
-  -webkit-line-clamp: 3;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .more {
   display: inline-block;
